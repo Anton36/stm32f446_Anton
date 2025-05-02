@@ -1,0 +1,1 @@
+learning project for stm32446re
